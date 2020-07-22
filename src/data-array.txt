@@ -1,0 +1,40 @@
+[{
+    titulo: 'Evitar juicios',
+    imgageUrl: 'https://i.ibb.co/09vvr7W/Webp-net-resizeimage-7.jpg',
+    id: 1
+},
+
+{
+    titulo: 'Paciencia',
+    imgageUrl: 'https://i.ibb.co/PGzkBsW/Webp-net-resizeimage.jpg',
+    id: 2
+},
+{
+    titulo: 'Mente Principiante',
+    imgageUrl: 'https://i.ibb.co/PGzkBsW/Webp-net-resizeimage.jpg',
+    id: 3
+},
+{
+    titulo: 'Confianza',
+    imgageUrl: 'https://i.ibb.co/PGzkBsW/Webp-net-resizeimage.jpg',
+    id: 4
+},
+{
+    titulo: 'Evitar Forzar',
+    imgageUrl: 'https://i.ibb.co/PGzkBsW/Webp-net-resizeimage.jpg',
+    id: 5
+},
+{
+    titulo: 'Aceptación',
+    imgageUrl: 'https://i.ibb.co/PGzkBsW/Webp-net-resizeimage.jpg',
+    id: 6
+},
+
+{
+    titulo: 'Dejar Ir',
+    imgageUrl: 'https://i.ibb.co/9cQ5SQP/Webp-net-resizeimage-3.jpg',
+    id: 7
+}
+
+
+]
